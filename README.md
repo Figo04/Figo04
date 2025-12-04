@@ -8,9 +8,9 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="mailto:fiigoo0404@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiigoo0404@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email_Me-667eea?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
   <img src="https://komarev.com/ghpvc/?username=Figo04&style=for-the-badge&color=667eea"/>
 </p>
 
