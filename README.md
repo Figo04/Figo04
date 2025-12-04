@@ -170,9 +170,10 @@
 
 💬 Feel free to reach out for **collaborations** or **remote opportunities**!
 
-<a href="mailto:fiigoo0404@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiigoo0404@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email_Me-667eea?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 <br><br>
 
