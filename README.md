@@ -20,18 +20,23 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const figo = {
-    role: "Flutter Developer",
-    location: "Indonesia 🇮🇩",
-    focus: ["Mobile Development", "Desktop ERP Systems"],
-    architecture: "Clean Architecture",
-    stateManagement: "Riverpod",
-    motto: "Write code that humans can read 📖"
-};
-```
+<table>
+<tr>
+<td>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2c5c8b389a71c01fa5e4c4f65a7f/raw/88624e8d31c8e0b4d4e57f7d4f8e0e96d6a1c1d5/coding.gif" alt="coding gif"/>
+**👨‍💻 Role:** Junior Flutter Developer  
+**📍 Location:** Indonesia 🇮🇩  
+**🎯 Focus:** Mobile Development  
+**🏗️ Architecture:** Clean Architecture  
+**⚡ State Management:** Riverpod  
+**💭 Motto:** *"Write code that humans can read 📖"*
+
+</td>
+<td>
+<img width="300" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2c5c8b389a71c01fa5e4c4f65a7f/raw/88624e8d31c8e0b4d4e57f7d4f8e0e96d6a1c1d5/coding.gif" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ### 🔥 Currently Working On
 
@@ -40,8 +45,6 @@ const figo = {
 - 🧩 **Clean Architecture & Riverpod**
 - 🔥 **Firebase Integration**
 - 🌐 **REST API Development**
-
-<br clear="right"/>
 
 ---
 
