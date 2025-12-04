@@ -1,73 +1,184 @@
-# Hi, I'm **Figo** 👋
+<div align="center">
+  
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Figo%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20|%20Mobile%20%26%20Desktop%20Apps&descSize=18&descAlignY=55"/>
 
-A passionate **Flutter Developer** who loves building clean, scalable, and modern mobile & desktop applications. Currently focused on:
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+clean+%26+scalable+apps;Flutter+%7C+Dart+%7C+Firebase;Clean+Architecture+%26+Riverpod;Mobile+%26+Desktop+Developer)](https://git.io/typing-svg)
 
-* 🚀 **Flutter Mobile Development**
-* 🖥️ **Flutter Desktop (ERP Systems)**
-* 🧩 **Clean Architecture & Riverpod**
-* 🔥 **Firebase Integration**
-* 🌐 **REST API Development**
+<!-- Social Badges -->
+<p>
+  <a href="mailto:fiigoo0404@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Figo04&style=for-the-badge&color=667eea"/>
+</p>
 
----
-
-## 🛠️ **Tech Stack**
-
-**Mobile & Desktop:** Flutter, Dart
-**State Management:** Riverpod
-**Architecture:** Clean Architecture
-**Backend Integration:** REST API
-**Database & Services:** Firebase (Auth, Firestore, Storage), PostgreSQL
-**Tools:** Git, GitHub, Figma
+</div>
 
 ---
 
-## 🚀 **Highlighted Projects**
+## 🧑‍💻 About Me
 
-Here are some of my featured projects:
+```javascript
+const figo = {
+    role: "Flutter Developer",
+    location: "Indonesia 🇮🇩",
+    focus: ["Mobile Development", "Desktop ERP Systems"],
+    architecture: "Clean Architecture",
+    stateManagement: "Riverpod",
+    motto: "Write code that humans can read 📖"
+};
+```
 
-### ⭐ **FinTrack App (Mobile)**
+<img align="right" width="300" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2c5c8b389a71c01fa5e4c4f65a7f/raw/88624e8d31c8e0b4d4e57f7d4f8e0e96d6a1c1d5/coding.gif" alt="coding gif"/>
 
-A mobile finance-tracking application built with Flutter using clean architecture and Riverpod. Features include: income/expense tracking, analytics, and SQLite local storage.
+### 🔥 Currently Working On
+
+- 🚀 **Flutter Mobile Development**
+- 🖥️ **Flutter Desktop (ERP Systems)**
+- 🧩 **Clean Architecture & Riverpod**
+- 🔥 **Firebase Integration**
+- 🌐 **REST API Development**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### State Management & Architecture
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Figo04&repo=fintrack-app&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400"/>
+</a>
+
+</div>
+
+### 💰 FinTrack App (Mobile)
+
+> A mobile finance-tracking application built with Flutter using clean architecture and Riverpod.
+
+| Feature | Description |
+|---------|-------------|
+| 📊 | Income/Expense tracking |
+| 📈 | Analytics dashboard |
+| 💾 | SQLite local storage |
+| 🎨 | Clean & modern UI |
+
+**Tech:** `Flutter` `Riverpod` `SQLite` `Clean Architecture`
+
 🔗 *Public repo coming soon*
 
-### ⭐ **ERP Purchasing System (Desktop)**
+---
 
-A mid-level ERP system built with **Flutter Desktop** for real manufacturing workflows. Includes: Purchase Request, PO, Supplier Management, Approval Workflow, and Reporting.
-🔗 *Public open-source version in progress*
+### 🏭 ERP Purchasing System (Desktop)
+
+> A mid-level ERP system built with Flutter Desktop for real manufacturing workflows.
+
+| Feature | Description |
+|---------|-------------|
+| 📋 | Purchase Request & PO |
+| 👥 | Supplier Management |
+| ✅ | Approval Workflow |
+| 📑 | Comprehensive Reporting |
+
+**Tech:** `Flutter Desktop` `PostgreSQL` `REST API` `Clean Architecture`
+
+🔗 *Open-source version in progress*
 
 ---
 
-## 📈 **GitHub Stats**
+## 📊 GitHub Stats
 
-> *Stats will automatically update based on your activity.*
+<div align="center">
 
-![Figo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Figo04\&show_icons=true\&theme=tokyonight)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Figo04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Figo04&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Figo04\&layout=compact\&theme=tokyonight)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea"/>
 
-![Streak](https://streak-stats.demolab.com/?user=Figo04\&theme=tokyonight)
-
----
-
-## 🏆 **GitHub Achievements**
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Figo04\&theme=tokyonight\&margin-w=15)
+</div>
 
 ---
 
-## 📫 **Contact Me**
+## 🏆 GitHub Trophies
 
-* 📧 Email: **[fiigoo0404@gmail.com](mailto:fiigoo0404@gmail.com)**
-* 🌐 Portfolio: *update soon*
+<div align="center">
 
----
+![Trophy](https://github-profile-trophy.vercel.app/?username=Figo04&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
 
-## 🎯 **Currently Working On**
-
-* Making ERP Purchasing System open-source (cleaned version)
-* Improving FinTrack App with better UI & analytics
-* Building stronger GitHub presence & documentation
+</div>
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaborations and remote opportunities.* 🙌
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Figo04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff)
+
+</div>
+
+---
+
+## 🎯 2024 Goals
+
+- [ ] 🔓 Making ERP Purchasing System open-source
+- [ ] 📱 Improving FinTrack App with better UI & analytics
+- [ ] 📚 Building stronger GitHub presence & documentation
+- [ ] 🤝 Contributing to Flutter open-source projects
+- [ ] 🚀 Launch personal portfolio website
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+💬 Feel free to reach out for **collaborations** or **remote opportunities**!
+
+<a href="mailto:fiigoo0404@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-667eea?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 💡 *"First, solve the problem. Then, write the code."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+
+</div>
