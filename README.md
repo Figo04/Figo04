@@ -29,7 +29,7 @@
 **🎯 Focus:** Mobile Development  
 **🏗️ Architecture:** Clean Architecture  
 **⚡ State Management:** Riverpod  
-**💭 Motto:** *"Write code that humans can read 📖"*
+**💭 Motto:** *"Nobody knows what life will be like in the future, because we live in a gray world."*
 
 </td>
 <td>
