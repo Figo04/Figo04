@@ -149,7 +149,7 @@ const figo = {
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - [ ] 🔓 Making ERP Purchasing System open-source
 - [ ] 📱 Improving FinTrack App with better UI & analytics
