@@ -2,8 +2,6 @@
   
 <!-- Header Banner -->
 # Hi, I'm **Figo** 👋
-&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20|%20Mobile%20%26%20Desktop%20Apps&descSize=18&descAlignY=55"/>
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+clean+%26+scalable+apps;Flutter+%7C+Dart+%7C+Firebase;Clean+Architecture+%26+Riverpod;Mobile+%26+Desktop+Developer)](https://git.io/typing-svg)
 
